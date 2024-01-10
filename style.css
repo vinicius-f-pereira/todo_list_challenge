@@ -1,0 +1,14 @@
+.left{
+	border: 1px solid red;
+	width: 250px;
+}
+
+.parent{
+	display: flex;
+	border: 1px solid #000000;
+}
+
+.day{
+	display: flex;
+	border: 1px solid yellow;
+}
